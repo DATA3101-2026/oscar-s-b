@@ -1,3 +1,4 @@
+
 library(tidyverse)
 library(dplyr)
 library(nycflights13)
@@ -69,3 +70,4 @@ flights |>
 # sorts the flights with the longest departure delays that leave earliest in the morning
 
 print("I had trouble with some of the conditional statements on the first question, as well as finding out how to group multiple categories within a column")
+
