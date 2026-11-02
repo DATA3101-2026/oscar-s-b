@@ -83,7 +83,7 @@ ggplot(ocean_temp3) +
     colour = "black",
     size = 0.1
   )
-    # note: this was difficult to find out how to do, but definitely learned a better structure for R code out of it
+
 
 
 
