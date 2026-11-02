@@ -18,7 +18,7 @@ In this assignment I modeled average temperatures collected across multiple depl
 
 ### Graph 3.
 
-![For this plot I measured the third deployment (depl_03). The primary differences in this new plot was the easy change of swapping to red rather than cyan, and the (not so easy) addition of standard deviation lines. To accomplish this, after reading the ggplot2 cheat sheet I went with geom_pointrange() which seemed like the best fitting function for this task. Figuring out how to add this feature was one of the best learning tasks I've had so far, particularly how you can explicitly declare the internal variables used in the geom_pointrange() function, you will see this in my code](images/assignment_6_plot3.png)
+\![For this plot I measured the third deployment (depl_03). The primary differences in this new plot was the easy change of swapping to red rather than cyan, and the (not so easy) addition of standard deviation lines. To accomplish this, after reading the ggplot2 cheat sheet I went with geom_pointrange() which seemed like the best fitting function for this task. Figuring out how to add this feature was one of the best learning tasks I've had so far, particularly how you can explicitly declare the internal variables used in the geom_pointrange() function, you will see this in my code](images/assignment_6_plot3.png)
 
 #### Sources:
 
