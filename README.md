@@ -1,7 +1,3 @@
 # oscar-s-b
-repo for Data-3101
+Primary repo for Data-3101 assignment submissions
 
-
-Q:
-
-How to spy into other peoples' gitignore files
