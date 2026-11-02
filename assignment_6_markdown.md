@@ -25,3 +25,5 @@ In this assignment I modeled average temperatures collected across multiple depl
 [R: ggplot2 pointrange example - Stack Overflow](https://stackoverflow.com/questions/41850568/r-ggplot2-pointrange-example)
 
 [TidyTuesday Data Source Github Repo](https://github.com/rfordatascience/tidytuesday/blob/main/static/tt_logo.png)
+
+[ggplot2 Cheat Sheet](images/ggplot2_cheat_sheet.pdf)
